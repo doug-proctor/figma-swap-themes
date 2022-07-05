@@ -1,4 +1,4 @@
-# Themer
+# Swap Themes
 
 ## Development guide
 
